@@ -21,7 +21,7 @@ IT系フリーランスとして営業していく上で、ツールとしてWeb
 ## 成果物 / リソース
 
 以下のGitHubにて公開しています。  
-[GitHub - yhironaka/protoya-mkdocs](https://github.com/yhironaka/protoya-mkdocs)  
+[GitHub - proto-ya/protoya-mkdocs](https://github.com/proto-ya/protoya-mkdocs)  
 このリポジトリは、このサイトを構築する仕組みとして本番運用中です。
 
 ## キーワード
