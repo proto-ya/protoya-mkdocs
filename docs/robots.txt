@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.proto-ya.com/sitemap.xml

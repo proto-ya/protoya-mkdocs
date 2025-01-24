@@ -1,0 +1,29 @@
+---
+og_title: "プロト屋 技術ノート"
+og_description: "プロト屋ポートフォリオ(このサイト)の構築"
+og_url: "https://www.proto-ya.com/tech-notes/making-protoya-portfolio-site"
+og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
+og_site_name: "PROTOYA"
+og_type: "website"
+---
+# プロト屋ポートフォリオ(このサイト)の構築
+
+## 概要
+
+IT系フリーランスとして営業していく上で、ツールとしてWebサイトは持っておきたいと思っていました。  
+
+ただ、フロント系のエンジニアとは違い、バックエンド/インフラ系のエンジニアは、どうしても紹介できる内容が地味になりがちです。  
+
+絵が少なく文字が中心になるため、慣れたmarkdownでコンテンツを書くのが一番楽に続けられると思いました。
+
+サイト自体を成果物の例として提示できればと思い、セルフビルドしました。
+
+## 成果物 / リソース
+
+以下のGitHubにて公開しています。  
+[GitHub - yhironaka/protoya-mkdocs](https://github.com/yhironaka/protoya-mkdocs)  
+このリポジトリは、このサイトを構築する仕組みとして本番運用中です。
+
+## キーワード
+
+Github Actions , MkDocs , markdown , css , python , oracle cloud infrastructure

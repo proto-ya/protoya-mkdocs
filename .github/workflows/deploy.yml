@@ -1,0 +1,45 @@
+name: OracleCloud
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+     # リポジトリをチェックアウト
+     - name: Checkout Repository
+       uses: actions/checkout@v3
+
+     # GA4_TAGの値をSecretsの値に置き換え
+     - name: Replace GA4_TAG with secrets
+       run: sed -i "s/G-XXXXXXXXXX/${{ secrets.GA4_TAG }}/g" mkdocs.yml
+
+     # Python環境をセットアップ
+     - name: Set up Python
+       uses: actions/setup-python@v4
+       with:
+         python-version: 3
+     
+     # 必要なパッケージをインストール
+     - name: Install dependencies
+       run: |
+         python -m pip install --upgrade pip
+         pip install -r requirements.txt
+
+     # MkDocsサイトをビルド
+     - name: Build MkDocs Site
+       run: mkdocs build
+
+      # サーバにデプロイ
+     - name: Deploy to Server via SSH
+       uses: appleboy/scp-action@v0.1.7
+       with:
+         host: ${{ secrets.SERVER_HOST }}
+         username: ${{ secrets.SERVER_USERNAME }}
+         key: ${{ secrets.KEY }}
+         source: "site/*"
+         target: "/usr/share/nginx/protoya/"

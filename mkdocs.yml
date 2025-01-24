@@ -1,0 +1,51 @@
+site_name: プロト屋
+site_url: https://www.proto-ya.com
+copyright: "&copy; 2025 Yasuhisa Hironaka"
+theme:
+  name: material
+  palette:
+      primary: pink
+  font:
+    text: Noto Sans JP
+    code: Inconsolata
+  logo: images/protoya-logo-white.svg
+  favicon: images/favicon.ico
+  language: ja
+  features:
+    - navigation.tabs
+    - header.autohide
+    - navigation.path
+    - navigation.sections
+  custom_dir: overrides
+plugins:
+  - search
+markdown_extensions:
+  - attr_list
+  - md_in_html
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  consent:
+    title: Cookie consent
+    description:
+      This website uses cookies to improve the usability of the site.By browsing the site, you must agree to the use of cookies.</br>
+      このウェブサイトでは、サイトの利便性向上を目的に、クッキーを使用しています。サイトを閲覧いただく際には、クッキーの使用に同意いただく必要があります。
+  generator: false
+extra_css:
+  - css/style.css
+nav:
+  - Home:
+    - home.md
+    - 表紙: index.md
+  - about.md
+  - 業務事例:
+    - case/index.md
+    - case/aws-account-migration.md
+    - case/modernization-proposal.md
+    - case/cicd-replace.md
+    - case/private-cloud-to-aws-migration.md
+    - case/erp-package-development.md
+  - 技術ノート:
+    - tech-notes/index.md
+    - tech-notes/making-protoya-portfolio-site.md

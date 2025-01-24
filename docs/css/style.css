@@ -1,0 +1,31 @@
+.md-typeset .md-button:focus, .md-typeset .md-button:hover {
+  background-color: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+  color: var(--md-accent-bg-color);
+}
+
+.md-nav__list ul {
+  padding: 15px;
+  margin: 0px;
+  list-style-type: "▸";
+  list-style-position: outside;
+}
+.md-nav__item {
+  padding: 0px;
+}
+
+.md-typeset h1 {
+  font-weight: bold;
+}
+.md-typeset h2 {
+  border-bottom: 1.5px solid #aaaaaa; /* 下線を引く */
+  padding-bottom: 0.2em;       /* 下線と文字の間隔 */
+  font-weight: bold;
+  color: #0000008a
+}
+.md-typeset ul {
+  padding: 15px;
+  margin: 0px;
+  list-style-type: "▸";
+  list-style-position: outside;
+}
