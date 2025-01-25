@@ -26,4 +26,4 @@ IT系フリーランスとして営業していく上で、ツールとしてWeb
 
 ## キーワード
 
-Github Actions , MkDocs , markdown , css , python , oracle cloud infrastructure
+Github Actions , MkDocs , markdown , css , python , Oracle Cloud Infrastructure
