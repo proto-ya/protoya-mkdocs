@@ -1,23 +1,32 @@
-# OGP画像の作り方
+---
+og_title: "プロト屋 技術ノート"
+og_description: "OGPイメージの作り方"
+og_url: "https://www.proto-ya.com/tech-notes/how-to-make-ogp-image"
+og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
+og_site_name: "PROTOYA"
+og_type: "website"
+---
+# OGPイメージの作り方
 
 - 画像を作る際、位置をきっちり合わせたキャプションを合成するため、CLIで画像を作る。
 - 背景画像にロゴやキャプションを乗せる。
 - 画像合成にはImageMagicを使用する。
 - 環境 : WSL2 Ubuntu 24.04
 
-## imagemagicインストール
+## ImageMagickインストール
 ```
 sudo apt-get install imagemagick
 ```
 
 ## フォント
-- [Google Fontsを利用](https://fonts.google.com/selection)
-- ExplorerでWSLのユーザーHomeにコピー
+- [Google Fontsを利用 (Noto Sans Japanese)](https://fonts.google.com/noto/specimen/Noto+Sans+JP?query=jp){target=”_blank”}
+- フォントをWindows ExplorerでWSLのユーザーHomeにコピー
 - ubuntuのフォント置き場に移動
 ``` bash
 sudo mv ~/*.ttf /usr/share/fonts/truetype/noto/
 ```
-## タイトル title.jpg
+
+## タイトル (title.jpg)
 ``` bash
 cd ~/protoya-mkdocs/docs/ogp/
 # ロゴのサイズを調整してpngに変換
@@ -28,7 +37,7 @@ convert base.jpg logo.png -background none -gravity center -compose over -compos
 rm logo.png 
 ```
 
-## 業務事例 case.jpg
+## 業務事例 (case.jpg)
 ``` bash
 cd ~/protoya-mkdocs/docs/ogp/
 # ロゴのサイズを調整してpngに変換
@@ -45,7 +54,7 @@ convert case.jpg caption.png -background none -gravity center -geometry +0+150 -
 rm logo.png caption.png
 ```
 
-## 自己紹介 case.jpg
+## 自己紹介 (case.jpg)
 ``` bash
 cd ~/protoya-mkdocs/docs/ogp/
 # ロゴのサイズを調整してpngに変換
@@ -62,7 +71,7 @@ convert about.jpg caption.png -background none -gravity center -geometry +0+150 
 rm logo.png caption.png
 ```
 
-## 技術ノート case.jpg
+## 技術ノート (case.jpg)
 ``` bash
 cd ~/protoya-mkdocs/docs/ogp/
 # ロゴのサイズを調整してpngに変換
