@@ -6,7 +6,7 @@ og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
 og_site_name: "PROTOYA"
 og_type: "website"
 ---
-# 技術ノートのご紹介
+# 技術情報を公開します
 
 開発したり調べたりした事の一部をこちらで公開いたします。
 

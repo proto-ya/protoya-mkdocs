@@ -4,8 +4,17 @@
   color: var(--md-accent-bg-color);
 }
 
+.md-nav__title {
+  padding: 0px;
+  border-bottom: 1.5px solid #aaaaaa; /* 下線を引く */
+  padding-bottom: 0.2em;       /* 下線と文字の間隔 */
+  font-weight: bold;
+  color: #0000008a
+
+}
+
 .md-nav__list ul {
-  padding: 15px;
+  padding: 0px 15px;
   margin: 0px;
   list-style-type: "▸";
   list-style-position: outside;
@@ -13,9 +22,12 @@
 .md-nav__item {
   padding: 0px;
 }
-
+.md-typeset {
+  color: #000000;
+}
 .md-typeset h1 {
   font-weight: bold;
+  color: #0000008a
 }
 .md-typeset h2 {
   border-bottom: 1.5px solid #aaaaaa; /* 下線を引く */
@@ -23,8 +35,18 @@
   font-weight: bold;
   color: #0000008a
 }
+.md-typeset h3 {
+  color: #0000008a;
+  margin:  16px 0px 8px 0px;
+}
+.md-typeset h4 {
+  color: #0000008a
+}
+.md-typeset h5 {
+  color: #0000008a
+}
 .md-typeset ul {
-  padding: 15px;
+  padding: 0px 15px;
   margin: 0px;
   list-style-type: "▸";
   list-style-position: outside;

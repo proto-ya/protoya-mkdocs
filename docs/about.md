@@ -32,25 +32,55 @@ og_type: "website"
 
 マネジメントよりも現場で手を動かす事を好む。若い人の面倒見は良い方だと思っている。
 
-## スキル
-### 業務 :
-自動車(生産管理、品質管理、業務モデリング)、金融(銀行・証券・生保、情報系)、通信、印刷、運輸、販売、広告、財務・会計、人事・総務・給与、生産管理、在庫管理
+## 業務スキル
+### 自動車
+- 生産管理、品質管理、業務モデリング
+### 金融
+- 銀行、証券、生保、クレジットカード
+### その他・業種
+- 通信、印刷、運輸、販売、広告、ホテル・レストラン
+### その他・業務
+- 財務・会計、人事・総務・給与、在庫管理
+### フェーズ
+- 要件定義、業務モデリング、調査・分析、進捗管理、品質管理、課題管理、PoC、プリセールス
+- 設計、開発、テスト(方針立案・実施)
+- 運用、災害対策
 
-### フェーズ :
-要件定義、業務モデリング、調査・分析、進捗管理、品質管理、課題管理、PoC、設計、開発、テスト(方針立案・実施)、運用、マイグレーション、データ移行、プリセールス、災害対策
+## 技術スキル
+### マイグレーション
+- クラウド化、仮想化、コンテナ化
+- オンプレ回帰
+- マイクロサービス化
+- 運用設計、データ移行
+### AWS
+- Control Tower、CfCT、Organizations(SCP、OU構成)、IAM Identity Center、AWS SSO
+- IAM (Role、Policy、User)
+- AWS Config、Service Catalog、Account Factory
+- EC2、Fargate、Lambda
+- RDS(Aurora, Postgres, Oracle)、DynamoDB、S3、EFS
+- Route53、ALB、ELB
+- CodeBuild、CodeDeploy
+- Eventbridge、StepFunctions、MWAA
+- SES、Cloud Shell、CloudWatch、CloudTrail
 
-### 技術 :
-クラウド化、仮想化、コンテナ化、マイクロサービス化、オンプレ回帰  
-AWS(EC2、Fargate、Lambda、RDS、DynamoDB、S3、EFS、Route53、ALB、SES、CodeBuild、CodeDeploy、CloudWatch、Eventbridge、StepFunctions、MWAA)  
-Amazon Linux、Redhat、Ubuntu、Windows Server  
-Oracle、SQL Server、Aurora、MySQL、Postgres、DB2/UDB、Redis、MongoDB  
-VMWare、Proxmox、OpenStack  
-JAVA、Spring、JavaScript、Node.js、PHP、Perl、Python、C++、C、VB、ASP、.Net Framework、SQL、Shell Script  
-Git、SVN、Terraform、Ansible
-Redmine、Jira、Notion、Slack、Teams、Zoom
-
-### その他 :
-CI/CDパイプライン構築、IaC、DevSecOps、プロセス改善、ソフトウェアメトリクス、EVM、オフショア開発(中国・ベトナム)、SQLチューニング、ワークフローエンジン
+## 技術要素
+### OS
+- Amazon Linux、Redhat、Ubuntu、Windows Server  
+### DB
+- Oracle、SQL Server、Aurora、MySQL、Postgres、DB2/UDB、Redis、MongoDB、SQLチューニング
+### 仮想化
+- VMWare、Proxmox、OpenStack  
+### 言語
+- JAVA、Spring、JavaScript、Node.js、PHP、Perl、Python、C++、C、VB、ASP、.Net Framework、SQL、Shell Script  
+### 版管理、自動化、IaC
+- Git、SVN、Terraform、Ansible
+### コミュニケーション
+- Redmine、Jira、Notion、Slack、Teams、Zoom
+### その他
+- CI/CDパイプライン構築、IaC、DevSecOps
+- プロセス改善、ソフトウェアメトリクス、EVM
+- オフショア開発(中国・ベトナム)
+- ワークフローエンジン
 
 ## お問合せ
 mail : [info@proto-ya.com](mailto:info@proto-ya.com)
