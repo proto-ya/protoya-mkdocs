@@ -30,9 +30,9 @@ CSSや拡張機能の設定・構成を共有します。
 
 ### 手順
 
-1. **リポジトリをクローン**
+1. リポジトリをクローン
 ``` bash
-git clone https://github.com/yhironaka/protoya-mkdocs.git
+git clone https://github.com/proto-ya/protoya-mkdocs.git
 cd protoya-mkdocs
 ```
 
