@@ -13,3 +13,4 @@ og_type: "website"
 ## 最近の技術ノート
 
 - [プロト屋ポートフォリオ(このサイト)の構築](making-protoya-portfolio-site.md)
+    - [OGPイメージ(SNSにシェアする際に表示される画像)の作り方](how-to-make-ogp-image.md)
