@@ -15,14 +15,15 @@ og_type: "website"
 
 ## ImageMagickインストール
 ```
-sudo apt-get install imagemagick
+sudo apt install -y imagemagick
 ```
 
 ## フォント
 - [Google Fontsを利用 (Noto Sans Japanese)](https://fonts.google.com/noto/specimen/Noto+Sans+JP?query=jp){target=”_blank”}
 - フォントをWindows ExplorerでWSLのユーザーHomeにコピー
 - ubuntuのフォント置き場に移動
-``` bash
+
+```bash
 sudo mv ~/*.ttf /usr/share/fonts/truetype/noto/
 ```
 

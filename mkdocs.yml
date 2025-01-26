@@ -7,7 +7,7 @@ theme:
       primary: pink
   font:
     text: Noto Sans JP
-    code: Inconsolata
+    code: ospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
   logo: images/protoya-logo-white.svg
   favicon: images/favicon.ico
   language: ja
@@ -25,11 +25,8 @@ markdown_extensions:
   - md_in_html
   - admonition
   - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
+      use_pygments: false
   - pymdownx.inlinehilite
-  - pymdownx.snippets
   - pymdownx.superfences
 extra:
   analytics:
@@ -42,11 +39,11 @@ extra:
       このウェブサイトでは、サイトの利便性向上を目的に、クッキーを使用しています。サイトを閲覧いただく際には、クッキーの使用に同意いただく必要があります。
   generator: false
 extra_javascript:
-    - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
-    - js/config.js
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js
+  - javascripts/highlight.js  
 extra_css:
   - css/style.css
-  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/vs.css
 nav:
   - Home:
     - home.md
