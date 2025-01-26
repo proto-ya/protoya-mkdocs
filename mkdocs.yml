@@ -16,12 +16,21 @@ theme:
     - header.autohide
     - navigation.path
     - navigation.sections
+    - content.code.copy
   custom_dir: overrides
 plugins:
   - search
 markdown_extensions:
   - attr_list
   - md_in_html
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 extra:
   analytics:
     provider: google
@@ -32,8 +41,12 @@ extra:
       This website uses cookies to improve the usability of the site.By browsing the site, you must agree to the use of cookies.</br>
       このウェブサイトでは、サイトの利便性向上を目的に、クッキーを使用しています。サイトを閲覧いただく際には、クッキーの使用に同意いただく必要があります。
   generator: false
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
+    - js/config.js
 extra_css:
   - css/style.css
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css
 nav:
   - Home:
     - home.md
