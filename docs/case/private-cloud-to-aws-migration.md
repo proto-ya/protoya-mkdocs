@@ -7,6 +7,7 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # プライベートクラウドからAWSへのマイグレーション
+<p class="update-date">最終更新日: 2025年 1月 31日</p>
 
 ## 概要
 2012年にオンプレミスからプライベートクラウドに移行したシステムを、AWSのEC2へ再度移行。

@@ -27,7 +27,8 @@
 }
 .md-typeset h1 {
   font-weight: bold;
-  color: #0000008a
+  color: #0000008a;
+  margin: 0px;
 }
 .md-typeset h2 {
   border-bottom: 1.5px solid #aaaaaa; /* 下線を引く */
@@ -50,4 +51,14 @@
   margin: 0px;
   list-style-type: "▸";
   list-style-position: outside;
+}
+p.update-date {
+  color: var(--md-default-fg-color--light);
+  font-size: .68rem;
+  margin-top: 0em;
+  text-align: right;
+}
+p.update-date::before {
+  content: url("../images/clock.svg");
+  vertical-align: -0.2em;
 }

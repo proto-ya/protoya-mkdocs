@@ -7,6 +7,7 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # ごあいさつ
+<p class="update-date">最終更新日: 2025年 1月 31日</p>
 
 IT系フリーランス、プロト屋のポートフォリオサイトです。  
 

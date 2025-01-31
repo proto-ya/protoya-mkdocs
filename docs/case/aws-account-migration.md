@@ -7,6 +7,7 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # 大量のAWSアカウントのぺイヤー移管
+<p class="update-date">最終更新日: 2025年 1月 31日</p>
 
 ## 概要
 大手ユーザー企業様において、複数のAWS Organizationsを統合するため、アカウント移管作業を実施。

@@ -7,6 +7,7 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # 技術情報を公開します
+<p class="update-date">最終更新日: 2025年 1月 31日</p>
 
 開発したり調べたりした事の一部をこちらで公開いたします。
 

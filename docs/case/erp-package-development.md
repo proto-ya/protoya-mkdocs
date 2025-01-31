@@ -7,6 +7,7 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # ERPパッケージに対し特定業界向けの機能を追加開発
+<p class="update-date">最終更新日: 2025年 1月 31日</p>
 
 ## 概要
 国産ERPの財務会計パッケージに、特定業界向けの原価管理機能を追加開発。
