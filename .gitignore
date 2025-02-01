@@ -34,3 +34,4 @@ Pipfile.lock
 
 # ogp-serverのモジュール群
 ogp-server/node_modules/
+
