@@ -27,24 +27,25 @@
 }
 .md-typeset h1 {
   font-weight: bold;
-  color: #0000008a;
+  color: #000000b3;
   margin: 0px;
 }
 .md-typeset h2 {
   border-bottom: 1.5px solid #aaaaaa; /* 下線を引く */
   padding-bottom: 0.2em;       /* 下線と文字の間隔 */
   font-weight: bold;
-  color: #0000008a
+  color: #000000b3;
 }
 .md-typeset h3 {
-  color: #0000008a;
+  color: #000000b3;
   margin:  16px 0px 8px 0px;
+  font-weight: bold;
 }
 .md-typeset h4 {
-  color: #0000008a
+  color: #000000b3;
 }
 .md-typeset h5 {
-  color: #0000008a
+  color: #000000b3;
 }
 .md-typeset ul {
   padding: 0px 15px;
