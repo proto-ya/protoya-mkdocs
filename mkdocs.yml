@@ -43,6 +43,7 @@ extra_javascript:
   - javascripts/highlight.js  
 extra_css:
   - css/style.css
+  - css/ogp-link.css
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/vs.css
 nav:
   - Home:

@@ -75,8 +75,13 @@ IT運用管理・ジョブ管理システムといわれる分野で、以下の
 
 ### AirFlowの利用
 Job管理ではなくワークフローで調べると、MWAAが見つかりました。
+<div id="ogp1"></div>
+<script type="module">
+    import { fetchOGP } from '../../javascripts/ogpFetcher.js';
+    // OGP情報を取得するURL
+    fetchOGP('https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/', 'ogp1');
+</script>
 
-[Amazon Managed Workflows for Apache Airflow (MWAA)](https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/)
 > #### 複雑なワークフローをサポートする
 > ビッグデータプロバイダーからの複雑なデータを準備および処理する、スケジュールされたワークフローまたはオンデマンドワークフローを作成します。
 > 
