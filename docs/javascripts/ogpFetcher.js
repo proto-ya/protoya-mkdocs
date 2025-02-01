@@ -1,5 +1,5 @@
 async function fetchOGP(url, targetElementId) {
-    const apiUrl = `https://www.proto-ya.com/ogp-server/?url=${encodeURIComponent(url)}`;
+    const apiUrl = `/ogp-server/?url=${encodeURIComponent(url)}`;
     const response = await fetch(apiUrl);
     const data = await response.json();
 
