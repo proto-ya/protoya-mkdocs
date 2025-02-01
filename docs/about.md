@@ -14,6 +14,8 @@ IT系フリーランス。バックエンド・インフラ系を中心に活動
 マネジメントよりも現場で手を動かす事を好む。若い人の面倒見は良い方だと思っている。
 
 [業務事例](case/index.md){ .md-button }
+[技術ノート](tech-notes/index.md){ .md-button }
+
 ## 基本情報
 
 ![profile photo](images/profile-photo.jpg){align=right style="width:150px;"}

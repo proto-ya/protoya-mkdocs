@@ -47,8 +47,8 @@ extra_css:
 nav:
   - Home:
     - home.md
+    - about.md
     - 表紙: index.md
-  - about.md
   - 業務事例:
     - case/index.md
     - case/aws-account-migration.md

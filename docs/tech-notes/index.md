@@ -11,6 +11,9 @@ og_type: "website"
 
 開発したり調べたりした事の一部をこちらで公開いたします。
 
+[自己紹介](../about.md){ .md-button }
+[業務事例](../case/index.md){ .md-button }
+
 ## 最近の技術ノート
 
 - [プロト屋ポートフォリオ(このサイト)の構築](making-protoya-portfolio-site.md)

@@ -12,6 +12,9 @@ og_type: "website"
 今までに経験してきた業務の中から、代表的な事例をご紹介します。
 左のナビゲーション、または、左上の≡メニューから、現在記載しているすべての事例をご覧いただけます。
 
+[自己紹介](../about.md){ .md-button }
+[技術ノート](../tech-notes/index.md){ .md-button }
+
 ## 最近の事例
 
 - [大量のAWSアカウントのぺイヤー移管](aws-account-migration.md)
