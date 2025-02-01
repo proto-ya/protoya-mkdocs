@@ -1,5 +1,5 @@
 async function fetchOGP(url, targetElementId) {
-    const apiUrl = `https://api.microlink.io/?url=${encodeURIComponent(url)}`;
+    const apiUrl = `http://localhost:3000/ogp?url=${encodeURIComponent(url)}`;
     const response = await fetch(apiUrl);
     const data = await response.json();
 

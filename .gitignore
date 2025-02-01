@@ -31,3 +31,6 @@ Pipfile.lock
 # その他一時ファイルやログ
 *.log
 *.tmp
+
+# ogp-serverのモジュール群
+ogp-server/node_modules/
