@@ -43,30 +43,3 @@ jobs:
           key: ${{ secrets.KEY }}
           source: "site/*"
           target: "/usr/share/nginx/protoya/"
-
-      # OGPサーバ、デプロイ
-      - name: Deploy OGP-Server to Server via SSH
-        uses: appleboy/scp-action@v0.1.7
-        with:
-          host: ${{ secrets.SERVER_HOST }}
-          username: ${{ secrets.SERVER_USERNAME }}
-          key: ${{ secrets.KEY }}
-          source: "ogp-server/*"
-          target: "/usr/share/nginx/protoya/"
-
-      # OGPサーバ、デプロイ用SSH接続
-      - name: Setup SSH
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan -H ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
-
-      # OGPサーバ、npmセットアップ
-      - name: Install npm packages on remote server
-        run: |
-          ssh ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }} << 'EOF'
-            cd /usr/share/nginx/protoya/ogp-server/
-            npm install express axios cheerio cors
-            pm2 restart server.js
-          EOF
