@@ -75,12 +75,8 @@ IT運用管理・ジョブ管理システムといわれる分野で、以下の
 
 ### AirFlowの利用
 Job管理ではなくワークフローで調べると、MWAAが見つかりました。
-<div id="ogp1"></div>
-<script type="module">
-    import { fetchOGP } from '../../javascripts/ogpFetcher.js';
-    // OGP情報を取得するURL
-    fetchOGP('https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/', 'ogp1');
-</script>
+
+<div class="embed-html-box"><p class="embed-html-box-inner"><a href="https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/" target="_blank" rel="noopener nofollow"><span class="embed-html-box_image"><img src="https://woinc.jp/img/cache/thumbnail-120x63.svg" style="background-image: url(https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png);"></span><span class="embed-html-box_meta"><span class="embed-html-box_title"><q>Apache ワークフロー管理 – Amazon MWAA – Amazon Web Services</q></span><span class="embed-html-box_description"><q>Amazon Managed Workflows for Apache Airflow (MWAA) は、Apache Airflow のマネージドオーケストレーションサービスであり、クラウドでデータパイプラインの設定と運用、およびスケールをより簡単に行えるようにします。</q></span></span></a></p></div>
 
 > #### 複雑なワークフローをサポートする
 > ビッグデータプロバイダーからの複雑なデータを準備および処理する、スケジュールされたワークフローまたはオンデマンドワークフローを作成します。
