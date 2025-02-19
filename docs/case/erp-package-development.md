@@ -1,7 +1,7 @@
 ---
 og_title: "プロト屋 業務事例"
 og_description: "事例紹介 : ERPパッケージに対し特定業界向けの機能を追加開発"
-og_url: "https://www.proto-ya.com/case/erp-package-development"
+og_url: "https://www.proto-ya.com/case/erp-package-development/"
 og_image: "https://www.proto-ya.com/ogp/case.jpg"
 og_site_name: "PROTOYA"
 og_type: "website"
