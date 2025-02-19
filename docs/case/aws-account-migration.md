@@ -7,8 +7,8 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # 大量のAWSアカウントのぺイヤー移管
-<p class="update-date">最終更新日: 2025年 1月 31日</p>
-
+<p class="update-date">最終更新日: 2025年 2月 19日</p>
+![](images/aws-account-migration.drawio.svg)
 ## 概要
 大手ユーザー企業様において、複数のAWS Organizationsを統合するため、アカウント移管作業を実施。
 
@@ -33,3 +33,5 @@ og_type: "website"
 ## キーワード
 AWS Control Tower, AWS Organizations, IAM Identity Center, AWS SSO, AWS Config, Service Catalog, Account Factory, Cloud Shell, CloudTrail, IAM (Role, Policy, User, Organization (SCP, OU構成)) 他、マネージドサービス全般
 
+## その他
+[このページの編集履歴](https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/aws-account-migration.md)
