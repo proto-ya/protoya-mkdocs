@@ -1,7 +1,11 @@
 ---
 og_title: "プロト屋 業務事例"
-og_description: "事例紹介 : プライベートクラウドからAWSへのマイグレーション"
-og_url: "https://www.proto-ya.com/case/private-cloud-to-aws-migration"
+og_description: "事例紹介 : プライベートクラウドからAWSへのマイグレーション
+2012年にオンプレミスからプライベートクラウドに移行したシステムを、AWSのEC2へ再度移行。
+サーバーOS、ライブラリ、DBMSの最新化を行い、クライアント側もChromeに対応。文字コードをEUC-JPからUTF-8に変更。
+古い業務システムのモダナイゼーション・マイグレーションのテンプレート案件として実績を積めた。 
+作業の効率化のため、Terraformを用いたAWSインスタンスの自動化など、インフラ面での知見も広がった。"
+og_url: "https://www.proto-ya.com/case/private-cloud-to-aws-migration/"
 og_image: "https://www.proto-ya.com/ogp/case.jpg"
 og_site_name: "PROTOYA"
 og_type: "website"
