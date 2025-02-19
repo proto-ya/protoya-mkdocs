@@ -23,6 +23,7 @@ og_type: "website"
 - [DevSecOps提案作成](dev-sec-ops-Proposal.md)
 - [プライベートクラウドからAWSへのマイグレーション](private-cloud-to-aws-migration.md)
 - [ERPパッケージに対し特定業界向けの機能を追加開発](erp-package-development.md)
+- [Adobe AnalyticsからGoogle Analytics 4への移行に伴うログ・マイグレーション](AA2GA-log-migration.md)
 
 ## その他
 [このページの編集履歴](https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/index.md)
