@@ -62,23 +62,10 @@ GitHub > Settings > Secrets and variables > Actions
 - SERVER_HOST : サーバのホスト名やIPアドレス
 - SERVER_USERNAME : ssh接続のユーザー名
 - KEY : 秘密鍵。内容をテキストでコピペ
-- GA4_TAG : G-XXXXXXXXXX 形式で記載
+- GA4_TAG : GoogleAnalyticsのタグを`G-XXXXXXXXXX`形式で記載
 
 Oracle Cloud InfrastructureのAlways Freeのcomputeインスタンスを使っています。  
 公開されるのは静的HTMLのみなので、無料インスタンスで十分です。
-
-サイト内で他サイトへのリンクのプレビューを埋め込んで参照するために、OGP-Serverを同梱しました。
-サイト構築時の最初に、パッケージをインストールする必要があります。
-```bash
-sudo apt update
-sudo apt install npm
-sudo npm install pm2@latest -g
-
-# PM2は一度起動しておく
-cd /usr/share/nginx/protoya/ogp-server
-pm2 start server.js
-```
-一度インストールすると、以後の更新でroot権限は必要ありません
 
 ## 📂 ディレクトリ構成
 ```

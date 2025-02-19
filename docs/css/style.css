@@ -3,7 +3,6 @@
   border-color: var(--md-primary-fg-color);
   color: var(--md-accent-bg-color);
 }
-
 .md-nav__title {
   padding: 0px;
   border-bottom: 1.5px solid #aaaaaa; /* 下線を引く */
@@ -12,7 +11,6 @@
   color: #0000008a
 
 }
-
 .md-nav__list ul {
   padding: 0px 15px;
   margin: 0px;
