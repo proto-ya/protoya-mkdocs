@@ -7,7 +7,7 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # 事例のご紹介
-<p class="update-date">最終更新日: 2025年 1月 31日</p>
+<p class="update-date">最終更新日: 2025年 2月 19日</p>
 
 今までに経験してきた業務の中から、代表的な事例をご紹介します。
 左のナビゲーション、または、左上の≡メニューから、現在記載しているすべての事例をご覧いただけます。
@@ -18,6 +18,7 @@ og_type: "website"
 ## 最近の事例
 
 - [大量のAWSアカウントのぺイヤー移管](aws-account-migration.md)
+- [OpenShiftトライアル](openshift-trial.md)
 - [モダナイズに伴う基盤刷新の提案支援](modernization-proposal.md)
 - [CI/CD環境と開発プロセスの刷新](cicd-replace.md)
 - [DevSecOps提案作成](dev-sec-ops-Proposal.md)
