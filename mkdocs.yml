@@ -53,6 +53,7 @@ nav:
   - 業務事例:
     - case/index.md
     - case/aws-account-migration.md
+    - case/openshift-trial.md
     - case/modernization-proposal.md
     - case/cicd-replace.md
     - case/private-cloud-to-aws-migration.md
