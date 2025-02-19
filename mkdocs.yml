@@ -57,6 +57,7 @@ nav:
     - case/cicd-replace.md
     - case/private-cloud-to-aws-migration.md
     - case/erp-package-development.md
+    - case/AA2GA-log-migration.md
   - 技術ノート:
     - tech-notes/index.md
     - tech-notes/making-protoya-portfolio-site.md

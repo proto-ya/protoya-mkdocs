@@ -22,3 +22,4 @@ og_type: "website"
 - [CI/CD環境と開発プロセスの刷新](cicd-replace.md)
 - [プライベートクラウドからAWSへのマイグレーション](private-cloud-to-aws-migration.md)
 - [ERPパッケージに対し特定業界向けの機能を追加開発](erp-package-development.md)
+- [Adobe AnalyticsからGoogle Analytics 4への移行に伴うログ・マイグレーション](AA2GA-log-migration.md)
