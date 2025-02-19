@@ -9,10 +9,13 @@ og_type: "website"
 # OpenShiftトライアル
 <p class="update-date">最終更新日: 2025年 2月 19日</p>
 ![](images/openshift-trial.drawio.svg)
-社内標準環境として構築されたOpenShiftが実際の運用に耐えるか、利用ケースを想定し検証する作業。  
+
+通信会社様の社内標準環境として構築されたOpenShift環境の検証作業。  
+実際の運用に耐えるか、利用ケースを想定して作業を進める。  
 OpenShiftの標準的な手順にてGitLab , Pipelines(Tekton) , GitOps(ArgoCD)を構成し、CI/CD Pipelineの稼働を確認した。
 
 ## 時期、ロール、他
+
 - 時期 : 2024年 
 - 期間 : 1ヵ月
 - ロール : 2人チーム
