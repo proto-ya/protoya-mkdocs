@@ -56,6 +56,7 @@ nav:
     - case/openshift-trial.md
     - case/modernization-proposal.md
     - case/cicd-replace.md
+    - case/dev-sec-ops-proposal.md
     - case/private-cloud-to-aws-migration.md
     - case/erp-package-development.md
     - case/AA2GA-log-migration.md

@@ -12,7 +12,8 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # 大量のAWSアカウントのぺイヤー移管
-<p class="update-date">最終更新日: 2025年 2月 19日</p>
+<p class="update-date">最終更新日: 2025年 2月 19日</br>
+<a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/aws-account-migration.md'>編集履歴</a></p>
 ![](images/aws-account-migration.drawio.svg)
 
 ## 概要
@@ -26,6 +27,7 @@ og_type: "website"
 最終的に、移行作業のテンプレート化を完了し、今後の移行実施チームへ引き継ぐ。
 
 ## 時期、ロール、他
+
 - 時期 : 2024年 
 - 期間 : 8ヵ月
 - ロール : 6人チームのメンバーとして参画
@@ -38,7 +40,9 @@ og_type: "website"
     お客様はスプリントイベントを正確に実施しており、優秀なプロダクトオーナー（PO）とスクラムマスターに恵まれた。その結果、アジャイルが非常に効果的に運用された。
 
 ## キーワード
+
 AWS Control Tower, AWS Organizations, IAM Identity Center, AWS SSO, AWS Config, Service Catalog, Account Factory, Cloud Shell, CloudTrail, IAM (Role, Policy, User, Organization (SCP, OU構成)) 他、マネージドサービス全般
 
 ## その他
+
 [このページの編集履歴](https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/aws-account-migration.md)

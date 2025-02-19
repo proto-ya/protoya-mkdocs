@@ -7,7 +7,8 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # Adobe AnalyticsからGoogle Analytics 4への移行に伴うログ・マイグレーション
-<p class="update-date">最終更新日: 2025年 2月 19日</p>
+<p class="update-date">最終更新日: 2025年 2月 19日</br>
+<a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/AA2GA-log-migration.md'>編集履歴</a></p>
 
 ## 概要
 

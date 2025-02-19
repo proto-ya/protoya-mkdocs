@@ -1,13 +1,14 @@
 ---
 og_title: "プロト屋 技術ノート"
 og_description: "OGPイメージの作り方"
-og_url: "https://www.proto-ya.com/tech-notes/how-to-make-ogp-image"
+og_url: "https://www.proto-ya.com/tech-notes/how-to-make-ogp-image/"
 og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
 og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # OGPイメージの作り方
-<p class="update-date">最終更新日: 2025年 1月 31日</p>
+<p class="update-date">最終更新日: 2025年 1月 31日</br>
+<a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/tech-notes/how-to-make-ogp-image.md'>編集履歴</a></p>
 
 ## OGPイメージとは
 Webサイトの内容をSNS上でシェアするための仕組み。  

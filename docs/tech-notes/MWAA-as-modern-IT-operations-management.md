@@ -1,13 +1,14 @@
 ---
 og_title: "プロト屋 技術ノート"
 og_description: "モダンなIT運用管理、ジョブ管理システムとしてのMWAA"
-og_url: "https://www.proto-ya.com/tech-notes/MWAA-as-modern-IT-operations-management"
+og_url: "https://www.proto-ya.com/tech-notes/MWAA-as-modern-IT-operations-management/"
 og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
 og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # モダンなIT運用管理、ジョブ管理システムとしてのMWAA
-<p class="update-date">最終更新日: 2025年 2月 1日</p>
+<p class="update-date">最終更新日: 2025年 2月 1日</br>
+<a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/tech-notes/MWAA-as-modern-IT-operations-management.md'>編集履歴</a></p>
 
 ## 概要
 DX(デジタルトランスフォーメーション)に真剣に取り組んでいるお客様が、モダンなIT運用管理・ジョブ管理システムの選択のお手伝いをする機会があり、候補としてMWAA (Amazon Managed Workflows for Apache Airflow)を推薦しました。

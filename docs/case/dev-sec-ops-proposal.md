@@ -13,8 +13,8 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # Dev Sec Ops提案活動支援
-<p class="update-date">最終更新日: 2025年 2月 19日</p>
-![](images/dev-sec-opes.drawio.svg)
+<p class="update-date">最終更新日: 2025年 2月 19日</br>
+<a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/dev-sec-ops-proposal.md'>編集履歴</a></p>
 
 ## 概要
 
@@ -33,7 +33,5 @@ SASTを開発サイクルに組み込むことで、開発資産を継続的に�
 - コミュニケーション : Slack, Teams, OneDrive
 
 ## キーワード
-DevSecOps , DAST , SBOM , SonarQube , SAST
 
-## その他
-[このページの編集履歴](https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/dev-sec-ops-proposal.md.md)
+DevSecOps , DAST , SBOM , SonarQube , SAST

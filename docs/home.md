@@ -1,13 +1,14 @@
 ---
 og_title: "プロト屋 ごあいさつ"
 og_description: "ごあいさつと、このサイトのご案内"
-og_url: "https://www.proto-ya.com/home"
+og_url: "https://www.proto-ya.com/home/"
 og_image: "https://www.proto-ya.com/ogp/title.jpg"
 og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # ごあいさつ
-<p class="update-date">最終更新日: 2025年 1月 31日</p>
+<p class="update-date">最終更新日: 2025年 1月 31日</br>
+<a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/home.md'>編集履歴</a></p>
 
 IT系フリーランス、プロト屋のポートフォリオサイトです。  
 

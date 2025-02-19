@@ -7,7 +7,9 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # OpenShiftトライアル
-<p class="update-date">最終更新日: 2025年 2月 19日</p>
+<p class="update-date">最終更新日: 2025年 2月 19日</br>
+<a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/openshift-trial.md'>編集履歴</a></p>
+
 ![](images/openshift-trial.drawio.svg)
 
 通信会社様の社内標準環境として構築されたOpenShift環境の検証作業。  
@@ -22,7 +24,5 @@ OpenShiftの標準的な手順にてGitLab , Pipelines(Tekton) , GitOps(ArgoCD)�
 - 業務形態 : フルリモート
 
 ## キーワード
-OpenShift , GitLab , Tekton , GitOps(ArgoCD) , CI/CD Pipeline
 
-## その他
-[このページの編集履歴](https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/openshift-trial.md)
+OpenShift , GitLab , Tekton , GitOps(ArgoCD) , CI/CD Pipeline

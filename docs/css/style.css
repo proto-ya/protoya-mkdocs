@@ -61,3 +61,9 @@ p.update-date::before {
   content: url("../images/clock.svg");
   vertical-align: -0.2em;
 }
+a.update-date {
+  color: var(--md-default-fg-color--light);
+  font-size: .68rem;
+  margin-top: 0em;
+  text-align: right;
+}
