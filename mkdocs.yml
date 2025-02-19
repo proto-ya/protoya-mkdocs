@@ -9,7 +9,7 @@ theme:
     text: Noto Sans JP
     code: ospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
   logo: images/protoya-logo-white.svg
-  favicon: images/favicon.ico
+  favicon: images/favicon.svg
   language: ja
   features:
     - navigation.tabs
