@@ -7,8 +7,8 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # 自己紹介
-<p class="update-date">最終更新日: 2025年 1月 31日</br>
-<a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/home.md'>編集履歴</a></p>
+<p class="update-date">最終更新日: 2025年 5月 10日</br>
+<a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/about.md'>編集履歴</a></p>
 
 IT系フリーランス。バックエンド・インフラ系を中心に活動している。  
 システム開発上流フェーズでの技術調査やPoCを得意とし、複数のAWS移行を経験。  
