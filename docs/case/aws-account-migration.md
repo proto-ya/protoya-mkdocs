@@ -1,6 +1,6 @@
 ---
 og_title: "プロト屋 業務事例"
-og_description: "事例紹介 : 大量のAWSアカウントのぺイヤー移管
+og_description: "事例紹介 : 大量のAWSアカウントのペイヤー移管
 大手ユーザー企業様において、複数のAWS Organizationsを統合するため、アカウント移管作業を実施。
 対象となる約150のAWSアカウントは、マネージドサービスを多用しており、またCfCTを用いたIaCも進んでいることから、個々が複雑な構成を持っていた。特にセキュリティ設定の影響でサービス停止が発生しないよう、慎重に調査と計画を行う。試行を重ねることで問題点を改善し、効率化を図るサイクルを構築した。
 作業は基本的にCloudShell上でCUIスクリプトを作成し、テストを経た後に本番環境へ適用するという流れで進めた。
@@ -11,7 +11,7 @@ og_image: "https://www.proto-ya.com/ogp/case.jpg"
 og_site_name: "PROTOYA"
 og_type: "website"
 ---
-# 大量のAWSアカウントのぺイヤー移管
+# 大量のAWSアカウントのペイヤー移管
 <p class="update-date">最終更新日: 2025年 2月 19日</br>
 <a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/case/aws-account-migration.md'>編集履歴</a></p>
 ![](images/aws-account-migration.drawio.svg)

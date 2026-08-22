@@ -34,4 +34,4 @@ og_type: "website"
 
 ## キーワード
 
-レガシー・マイグレーション, 要件定義, 外部設計, 内部設計, 開発/単体テスト, 結合テスト, 受入テスト, 総合テスト, Linux, Postgresql, PHP、GitHub、terraform
+レガシー・マイグレーション, 要件定義, 外部設計, 内部設計, 開発/単体テスト, 結合テスト, 受入テスト, 総合テスト, Linux, Postgresql, PHP、GitHub、Terraform

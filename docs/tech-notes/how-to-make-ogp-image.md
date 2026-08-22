@@ -27,7 +27,7 @@ sudo apt install -y imagemagick
 ```
 
 ## フォント
-- [Google Fontsを利用 (Noto Sans Japanese)](https://fonts.google.com/noto/specimen/Noto+Sans+JP?query=jp){target=”_blank”}
+- [Google Fontsを利用 (Noto Sans Japanese)](https://fonts.google.com/noto/specimen/Noto+Sans+JP?query=jp){target="_blank"}
 - フォントをWindows ExplorerでWSLのユーザーHomeにコピー
 - ubuntuのフォント置き場に移動
 

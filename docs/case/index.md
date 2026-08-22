@@ -19,7 +19,7 @@ og_type: "website"
 
 ## 最近の事例
 
-- [大量のAWSアカウントのぺイヤー移管](aws-account-migration.md)
+- [大量のAWSアカウントのペイヤー(支払いアカウント)移管](aws-account-migration.md)
 - [OpenShiftトライアル](openshift-trial.md)
 - [モダナイズに伴う基盤刷新の提案支援](modernization-proposal.md)
 - [CI/CD環境と開発プロセスの刷新](cicd-replace.md)

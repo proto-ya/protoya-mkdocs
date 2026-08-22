@@ -73,7 +73,6 @@ protoya-mkdocs/
 ├── .github/workflows/   # GitHub Actions用設定yamlファイル
 ├── docs/                # ドキュメントのMarkdownファイル
 ├── overrides/           # OGP用カスタムファイル
-├── ogp-server/          # OGP-Server 他サイトのOGP情報を取得する
 ├── mkdocs.yml           # MkDocsの設定ファイル
 ├── requirements.txt     # 必要なPythonパッケージ
 └── site/                # ビルド後の静的ファイル (自動生成)

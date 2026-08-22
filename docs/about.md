@@ -27,7 +27,7 @@ IT系フリーランス。バックエンド・インフラ系を中心に活動
   業務形態 ： 個人事業主  
   屋号　　 ： プロト屋  
   居住地　 ： 東京都葛飾区  
-  登録番号 ： [T3810265808620](https://www.invoice-kohyo.nta.go.jp/regno-search/detail?selRegNo=3810265808620){target=”_blank”}  
+  登録番号 ： [T3810265808620](https://www.invoice-kohyo.nta.go.jp/regno-search/detail?selRegNo=3810265808620){target="_blank"}  
 
 ## 略歴
 1995年、東海大学 工学部 電子工学科を卒業。中堅システムインテグレーターに就職。  
@@ -35,7 +35,7 @@ ITコンサル会社、外資パッケージベンダーを経て、オフショ
 リーマンショックの影響で廃業するも、多様な経験を積む。
 
 以降、システム開発会社での設計・開発・運用業務、コンサル会社では自動車メーカー向け業務改革推進プロジェクト・業務モデリングを担当。  
-国産パッケージベンダーの会計システム刷新プロジェクトで得たDevOpes環境での経験を基に、モダンな開発基盤のあり方を深堀りしている。
+国産パッケージベンダーの会計システム刷新プロジェクトで得たDevOps環境での経験を基に、モダンな開発基盤のあり方を深掘りしている。
 
 2020年に個人事業主として独立。現在は、カード会社のレガシーマイグレーションプロジェクトを手掛ける。
 
@@ -67,20 +67,20 @@ ITコンサル会社、外資パッケージベンダーを経て、オフショ
 - RDS(Aurora, Postgres, Oracle)、DynamoDB、S3、EFS
 - Route53、ALB、ELB
 - CodeBuild、CodeDeploy
-- Eventbridge、StepFunctions、MWAA
+- EventBridge、Step Functions、MWAA
 - SES、Cloud Shell、CloudWatch、CloudTrail
 
 ## 技術要素
 ### OS
-- Amazon Linux、Redhat、Ubuntu、Windows Server  
+- Amazon Linux、Red Hat、Ubuntu、Windows Server  
 ### DB
 - Oracle、SQL Server、Aurora、MySQL、Postgres、DB2/UDB、Redis、MongoDB、SQLチューニング
 ### 仮想化
-- VMWare、Proxmox、OpenStack  
+- VMware、Proxmox、OpenStack  
 ### 言語
-- JAVA、Spring、JavaScript、Node.js、PHP、Perl、Python、C++、C、VB、ASP、.Net Framework、SQL、Shell Script  
+- Java、Spring、JavaScript、Node.js、PHP、Perl、Python、C++、C、VB、ASP、.Net Framework、SQL、Shell Script  
 ### 版管理、自動化、IaC
-- Git、Github Actions、GitLab、SVN、Terraform、Ansible、Jenkins
+- Git、GitHub Actions、GitLab、SVN、Terraform、Ansible、Jenkins
 ### コミュニケーション
 - Redmine、Jira、Notion、Slack、Teams、Zoom
 ### その他
@@ -93,5 +93,5 @@ ITコンサル会社、外資パッケージベンダーを経て、オフショ
 - mail : [info@proto-ya.com](mailto:info@proto-ya.com)
 
 ## Link
-- [<img src="../images/x-logo.svg" width="18px">](https://x.com/proto_ya){target=”_blank”}
-- [<img src="../images/Eight.svg" width="80px">](https://8card.net/p/39651683988){target=”_blank”}
+- [<img src="../images/x-logo.svg" width="18px">](https://x.com/proto_ya){target="_blank"}
+- [<img src="../images/Eight.svg" width="80px">](https://8card.net/p/39651683988){target="_blank"}

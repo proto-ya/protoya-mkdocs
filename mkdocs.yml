@@ -1,6 +1,6 @@
 site_name: プロト屋
 site_url: https://www.proto-ya.com
-copyright: "&copy; 2025 Yasuhisa Hironaka"
+copyright: "&copy; 2025-2026 Yasuhisa Hironaka"
 theme:
   name: material
   palette:
@@ -35,7 +35,7 @@ extra:
   consent:
     title: Cookie consent
     description:
-      This website uses cookies to improve the usability of the site.By browsing the site, you must agree to the use of cookies.</br>
+      This website uses cookies to improve the usability of the site. By browsing the site, you must agree to the use of cookies.<br>
       このウェブサイトでは、サイトの利便性向上を目的に、クッキーを使用しています。サイトを閲覧いただく際には、クッキーの使用に同意いただく必要があります。
   generator: false
 extra_javascript:

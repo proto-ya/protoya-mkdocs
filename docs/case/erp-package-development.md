@@ -33,5 +33,5 @@ Gitによるバージョン管理、GitFlowを用いたマージリクエスト�
 
 ## キーワード
 
-CI/CD環境で設計～実装, 外部設計, 内部設計, 開発/単体テスト, 結合テスト, 総合テスト, Windows、linux, MariaDB, cassandra, GitLab
+CI/CD環境で設計～実装, 外部設計, 内部設計, 開発/単体テスト, 結合テスト, 総合テスト, Windows、Linux, MariaDB, Cassandra, GitLab
 Redmine, AWS, Spark, Java8, Spring

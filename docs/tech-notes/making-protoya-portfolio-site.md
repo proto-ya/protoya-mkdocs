@@ -23,9 +23,9 @@ IT系フリーランスとして営業していく上で、ツールとしてWeb
 ## 成果物 / リソース
 
 以下のGitHubにて公開しています。  
-[GitHub - proto-ya/protoya-mkdocs](https://github.com/proto-ya/protoya-mkdocs){target=”_blank”}  
+[GitHub - proto-ya/protoya-mkdocs](https://github.com/proto-ya/protoya-mkdocs){target="_blank"}  
 このリポジトリは、このサイトを構築する仕組みとして本番運用中です。
 
 ## キーワード
 
-Github Actions , MkDocs , markdown , css , python , Oracle Cloud Infrastructure
+GitHub Actions , MkDocs , markdown , css , python , Oracle Cloud Infrastructure

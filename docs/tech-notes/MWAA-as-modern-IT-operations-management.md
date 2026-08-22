@@ -66,7 +66,7 @@ IT運用管理・ジョブ管理システムといわれる分野で、以下の
 ## AWSサービスで固めるとどうなるか
 調べるうちに以下のような穂方法が出てきました。
 
-### EventBridgeで定期実行をキック、StepFunctionsでフローを定義  
+### EventBridgeで定期実行をキック、Step Functionsでフローを定義  
 検索するとこの案が結構出てきます。GUIでフローチャートを作成するようにジョブを定義出るので、従来のシステムと同様の使い勝手が期待されるのでしょう。  
 
 ジョブの依存関係が実装できるかを確認するためにサンプルを作成しました。
@@ -74,10 +74,10 @@ IT運用管理・ジョブ管理システムといわれる分野で、以下の
   
 実行状態と結果を一旦DynamoDBに書き出すかな。Lambda要るな。ん、実行時間15分制限があるから処理本体はLambdaに統一できないじゃん。Fargateを組み合わせる? なんかAWSマネージドサービス総動員って感じになってきたぞ。障害点多すぎじゃね・・・。
 
-### AirFlowの利用
+### Airflowの利用
 Job管理ではなくワークフローで調べると、MWAAが見つかりました。
 
-<div class="embed-html-box"><p class="embed-html-box-inner"><a href="https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/" target="_blank" rel="noopener nofollow"><span class="embed-html-box_image"><img src="https://woinc.jp/img/cache/thumbnail-120x63.svg" style="background-image: url(https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png);"></span><span class="embed-html-box_meta"><span class="embed-html-box_title"><q>Apache ワークフロー管理 – Amazon MWAA – Amazon Web Services</q></span><span class="embed-html-box_description"><q>Amazon Managed Workflows for Apache Airflow (MWAA) は、Apache Airflow のマネージドオーケストレーションサービスであり、クラウドでデータパイプラインの設定と運用、およびスケールをより簡単に行えるようにします。</q></span></span></a></p></div>
+<div class="embed-html-box"><p class="embed-html-box-inner"><a href="https://aws.amazon.com/jp/managed-workflows-for-apache-Airflow/" target="_blank" rel="noopener nofollow"><span class="embed-html-box_image"><img src="https://woinc.jp/img/cache/thumbnail-120x63.svg" style="background-image: url(https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png);"></span><span class="embed-html-box_meta"><span class="embed-html-box_title"><q>Apache ワークフロー管理 – Amazon MWAA – Amazon Web Services</q></span><span class="embed-html-box_description"><q>Amazon Managed Workflows for Apache Airflow (MWAA) は、Apache Airflow のマネージドオーケストレーションサービスであり、クラウドでデータパイプラインの設定と運用、およびスケールをより簡単に行えるようにします。</q></span></span></a></p></div>
 
 > #### 複雑なワークフローをサポートする
 > ビッグデータプロバイダーからの複雑なデータを準備および処理する、スケジュールされたワークフローまたはオンデマンドワークフローを作成します。
@@ -98,12 +98,12 @@ Job管理ではなくワークフローで調べると、MWAAが見つかりま�
 - 縦にも横にもスケールできる。Web、Scheduler、Workerは別インスタンスで、それぞれキャパシティに応じて拡張できる。
 
 ## サンプル構築と説明資料作成
-この段階で、だいぶAirFlowを推したい気持ちになってきたので、お客様と相談しながら、実際の業務を想定したデモを作成しました。
+この段階で、だいぶAirflowを推したい気持ちになってきたので、お客様と相談しながら、実際の業務を想定したデモを作成しました。
 
-Javaバッチを想定して、簡単なプログラムをECR -> ECS Fargateにデプロイ、AirFlowから呼び出し、ステータスの遷移を確認、画面キャプチャ動画と数ページの資料にまとめて結果をご報告しました。
+Javaバッチを想定して、簡単なプログラムをECR -> ECS Fargateにデプロイ、Airflowから呼び出し、ステータスの遷移を確認、画面キャプチャ動画と数ページの資料にまとめて結果をご報告しました。
 
 移行したい業務のスケルトンだけですが、運用上懸念されていたリトライやJobのスキップ方法も見えてきました。癖は強いので運用要員の学習コストは高くなる旨も申し添えました。
 
 ## 採用
-数日後、Job管理はAirFlowで行く事が決まったとお客様から連絡がありました。
+数日後、Job管理はAirflowで行く事が決まったとお客様から連絡がありました。
 移行Prjは始まったばかりですが、全力でサポートしていきます。

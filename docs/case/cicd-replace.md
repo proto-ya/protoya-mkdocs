@@ -29,7 +29,7 @@ og_type: "website"
 - コミュニケーション : Slack, Teams, OneDrive
 
 ## キーワード
-CI/CD, GitLab, Jenkis, ansible, nexus, AWS, EC2, RDS(Oracle), eclipse, Java, SonarCube
+CI/CD, GitLab, Jenkins, Ansible, Nexus, AWS, EC2, RDS(Oracle), Eclipse, Java, SonarQube
 
 ## その他
 
