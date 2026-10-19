@@ -1,5 +1,5 @@
 ---
-og_title: "プロト屋 ごあいさつ"
+og_title: "ごあいさつ"
 og_description: "ごあいさつと、このサイトのご案内"
 og_url: "https://www.proto-ya.com/home/"
 og_image: "https://www.proto-ya.com/ogp/title.jpg"
@@ -7,10 +7,10 @@ og_site_name: "PROTOYA"
 og_type: "website"
 ---
 # ごあいさつ
-<p class="update-date">最終更新日: 2025年 1月 31日<br>
+<p class="update-date">最終更新日: 2026年 10月 1日<br>
 <a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/home.md'>編集履歴</a></p>
 
-IT系フリーランス、プロト屋のポートフォリオサイトです。  
+システム開発のフィジブル合同会社のポートフォリオサイトです。  
 
 バックエンドからインフラまで幅広い分野で、PoC（概念実証）、サービスのプロトタイプ開発に多数の実績があります。  
 豊富な開発経験を基に、机上だけではなく、実際にものを動かして確認しています。  
@@ -24,7 +24,7 @@ IT系フリーランス、プロト屋のポートフォリオサイトです。
 
 このサイトでは、これまでの実績の一部を事例としてご紹介しています。
 
-[自己紹介](about.md){ .md-button }
+[会社紹介](about.md){ .md-button }
 [業務事例](case/index.md){ .md-button }
 
 ## こんなシーンでお役に立ちます

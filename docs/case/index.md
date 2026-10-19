@@ -1,5 +1,5 @@
 ---
-og_title: "プロト屋 業務事例"
+og_title: "業務事例"
 og_description: "今までに経験してきた業務の中から、代表的な事例をご紹介します"
 og_url: "https://www.proto-ya.com/case/"
 og_image: "https://www.proto-ya.com/ogp/case.jpg"

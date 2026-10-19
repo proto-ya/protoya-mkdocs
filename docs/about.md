@@ -1,24 +1,30 @@
 ---
-og_title: "プロト屋 自己紹介"
+og_title: "自己紹介"
 og_description: "基本情報、略歴、スキル、お問い合わせ先"
 og_url: "https://www.proto-ya.com/about"
 og_image: "https://www.proto-ya.com/ogp/about.jpg"
 og_site_name: "PROTOYA"
 og_type: "website"
 ---
-# 自己紹介
-<p class="update-date">最終更新日: 2025年 5月 10日</br>
+# フィジブル合同会社について
+<p class="update-date">最終更新日: 2026年 10月 1日</br>
 <a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/about.md'>編集履歴</a></p>
 
-IT系フリーランス。バックエンド・インフラ系を中心に活動している。  
+## 法人になりました
+
+個人事業主「プロト屋」は2026年10月1日より「フィジブル合同会社」になりました。  
+近年話題のAIを活用したシステム開発、それに伴うクラウドインフラ基盤を中心としたマイグレーションにより注力して活動していきます。  
+
+## 代表 自己紹介
+
+フィジブル合同会社代表。バックエンド・インフラ系を中心に活動している。  
 システム開発上流フェーズでの技術調査やPoCを得意とし、複数のAWS移行を経験。  
 レガシーマイグレーションにも多くの実績がある。  
 マネジメントよりも現場で手を動かす事を好む。若い人の面倒見は良い方だと思っている。
+2020年10月に個人事業主として起業した。
 
 [業務事例](case/index.md){ .md-button }
 [技術ノート](tech-notes/index.md){ .md-button }
-
-## 基本情報
 
 ![profile photo](images/profile-photo.jpg){align=right style="width:150px;"}
 
@@ -30,6 +36,7 @@ IT系フリーランス。バックエンド・インフラ系を中心に活動
   登録番号 ： [T3810265808620](https://www.invoice-kohyo.nta.go.jp/regno-search/detail?selRegNo=3810265808620){target="_blank"}  
 
 ## 略歴
+
 1995年、東海大学 工学部 電子工学科を卒業。中堅システムインテグレーターに就職。  
 ITコンサル会社、外資パッケージベンダーを経て、オフショア開発を前提とした設計・受入テスト・保守を行う会社を起業。  
 リーマンショックの影響で廃業するも、多様な経験を積む。

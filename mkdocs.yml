@@ -1,4 +1,4 @@
-site_name: プロト屋
+site_name: フィジブル合同会社
 site_url: https://www.proto-ya.com
 copyright: "&copy; 2025-2026 Yasuhisa Hironaka"
 theme:
@@ -8,7 +8,7 @@ theme:
   font:
     text: Noto Sans JP
     code: ospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
-  logo: images/protoya-logo-white.svg
+  logo: images/feasible-logo-white.svg
   favicon: images/favicon.svg
   language: ja
   features:

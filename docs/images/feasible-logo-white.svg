@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104mm" height="12.5mm" viewBox="0 0 104 12.5" fill="#DCDCDC" role="img" aria-labelledby="title">
+  <title id="title">FEASIBLE!</title>
+  <g transform="translate(3 .25) skewX(-12)">
+    <!-- Separated upper strokes and forward-leaning geometric letterforms. -->
+    <path d="M0 1.4h4v1.8H0z M12 1.4h4v1.8h-4z M24 1.4h4v1.8h-4z M36 1.4h4v1.8h-4z M48 1.4h4v1.8h-4z M54 1.4h4v1.8h-4z M66 1.4h4v1.8h-4z M78 1.4h4v1.8h-4z"/>
+    <path d="M0 0h10v1.4H0z M0 4h4v1.3h5v1.5H4V12H0z"/>
+    <path transform="translate(12)" d="M0 0h10v1.4H0z M0 4h4v1.3h5v1.5H4v3.8h6V12H0z"/>
+    <path transform="translate(24)" d="M1.4 0H9q1 0 1 1v11H6V8H4v4H0V4h4v2.5h2V2.4q0-1-1-1H0Q0 0 1.4 0z"/>
+    <path transform="translate(36)" d="M1.4 0H10v1.4H0Q0 0 1.4 0z M0 4h4v1.3h4.6q1.4 0 1.4 1.4v3.9Q10 12 8.6 12H0v-1.4h5q1 0 1-1V7.8q0-1-1-1H1.4Q0 6.8 0 5.4z"/>
+    <path transform="translate(48)" d="M0 0h4v1.4H0z M0 4h4v8H0z"/>
+    <path transform="translate(54)" fill-rule="evenodd" d="M0 0h8.6Q10 0 10 1.4v3.2q0 1.1-1.4 1.4Q10 6.3 10 7.4v3.2Q10 12 8.6 12H0V4h4v1.3h1q1 0 1-1V2.4q0-1-1-1H0z M4 6.8v3.8h1q1 0 1-1V7.8q0-1-1-1z"/>
+    <path transform="translate(66)" d="M0 0h4v1.4H0z M0 4h4v6.6h6V12H0z"/>
+    <path transform="translate(78)" d="M0 0h10v1.4H0z M0 4h4v1.3h5v1.5H4v3.8h6V12H0z"/>
+    <path transform="translate(92)" d="M0 0h4l-.6 8H.6z M0 9.4h3.4V12H0z"/>
+  </g>
+</svg>

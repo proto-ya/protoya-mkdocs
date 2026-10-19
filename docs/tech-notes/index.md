@@ -1,5 +1,5 @@
 ---
-og_title: "プロト屋 技術ノート"
+og_title: "技術ノート"
 og_description: "技術情報を公開します"
 og_url: "https://www.proto-ya.com/tech-notes/"
 og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
@@ -17,7 +17,7 @@ og_type: "website"
 
 ## 最近の技術ノート
 
-- [プロト屋ポートフォリオ(このサイト)の構築](making-protoya-portfolio-site.md)
+- [ポートフォリオ(このサイト)の構築](making-protoya-portfolio-site.md)
     - [OGPイメージ(SNSにシェアする際に表示される画像)の作り方](how-to-make-ogp-image.md)
 
 ## AWS関連
