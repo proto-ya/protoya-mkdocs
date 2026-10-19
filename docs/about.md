@@ -27,21 +27,17 @@ og_type: "website"
 
 ## 代表 自己紹介
 
+廣中 靖久  
+
 フィジブル合同会社代表。バックエンド・インフラ系を中心に活動している。  
 システム開発上流フェーズでの技術調査やPoCを得意とし、複数のAWS移行を経験。  
 レガシーマイグレーションにも多くの実績がある。  
 マネジメントよりも現場で手を動かす事を好む。若い人の面倒見は良い方だと思っている。
-2020年10月に個人事業主として起業した。
 
 [業務事例](case/index.md){ .md-button }
 [技術ノート](tech-notes/index.md){ .md-button }
 
 ![profile photo](images/profile-photo.jpg){align=right style="width:150px;"}
-
-  氏名　　 ： 廣中 靖久  
-  　　　　　 (ひろなか やすひさ)   
-  居住地　 ： 東京都葛飾区  
-  登録番号 ： [T3810265808620](https://www.invoice-kohyo.nta.go.jp/regno-search/detail?selRegNo=3810265808620){target="_blank"}  
 
 ## 略歴
 
