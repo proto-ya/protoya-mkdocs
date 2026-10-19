@@ -22,6 +22,7 @@
 }
 .md-typeset {
   color: #000000;
+  text-align: left;
 }
 .md-typeset h1 {
   font-weight: bold;
@@ -55,7 +56,7 @@ p.update-date {
   color: var(--md-default-fg-color--light);
   font-size: .68rem;
   margin-top: 0em;
-  text-align: right;
+  text-align: left;
 }
 p.update-date::before {
   content: url("../images/clock.svg");
@@ -65,5 +66,5 @@ a.update-date {
   color: var(--md-default-fg-color--light);
   font-size: .68rem;
   margin-top: 0em;
-  text-align: right;
+  text-align: left;
 }

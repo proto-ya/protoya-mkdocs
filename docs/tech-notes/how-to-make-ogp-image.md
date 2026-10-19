@@ -1,5 +1,5 @@
 ---
-og_title: "プロト屋 技術ノート"
+og_title: "技術ノート"
 og_description: "OGPイメージの作り方"
 og_url: "https://www.proto-ya.com/tech-notes/how-to-make-ogp-image/"
 og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
@@ -39,7 +39,7 @@ sudo mv ~/*.ttf /usr/share/fonts/truetype/noto/
 ``` bash
 cd ~/protoya-mkdocs/docs/ogp/
 # ロゴのサイズを調整してpngに変換
-convert -background none -density 250 ../images/protoya-logo-white.svg logo.png 
+convert -background none -density 250 ../images/feasible-logo-white.svg logo.png 
 # ベースとロゴを合成
 convert base.jpg logo.png -background none -gravity center -compose over -composite title.jpg 
 # ロゴpngを削除
@@ -50,7 +50,7 @@ rm logo.png
 ``` bash
 cd ~/protoya-mkdocs/docs/ogp/
 # ロゴのサイズを調整してpngに変換
-convert -background none -density 250 ../images/protoya-logo-white.svg logo.png 
+convert -background none -density 250 ../images/feasible-logo-white.svg logo.png 
 # ベースとロゴを合成 ロゴは200上に
 convert base.jpg logo.png -background none -gravity center -geometry +0-200 -compose over -composite case.jpg
 # キャプション文字列画像
@@ -67,7 +67,7 @@ rm logo.png caption.png
 ``` bash
 cd ~/protoya-mkdocs/docs/ogp/
 # ロゴのサイズを調整してpngに変換
-convert -background none -density 250 ../images/protoya-logo-white.svg logo.png 
+convert -background none -density 250 ../images/feasible-logo-white.svg logo.png 
 # ベースとロゴを合成 ロゴは200上に
 convert base.jpg logo.png -background none -gravity center -geometry +0-200 -compose over -composite about.jpg
 # キャプション文字列画像
@@ -84,7 +84,7 @@ rm logo.png caption.png
 ``` bash
 cd ~/protoya-mkdocs/docs/ogp/
 # ロゴのサイズを調整してpngに変換
-convert -background none -density 250 ../images/protoya-logo-white.svg logo.png 
+convert -background none -density 250 ../images/feasible-logo-white.svg logo.png 
 # ベースとロゴを合成 ロゴは200上に
 convert base.jpg logo.png -background none -gravity center -geometry +0-200 -compose over -composite tech-notes.jpg
 # キャプション文字列画像

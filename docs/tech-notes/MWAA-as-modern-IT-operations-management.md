@@ -1,5 +1,5 @@
 ---
-og_title: "プロト屋 技術ノート"
+og_title: "技術ノート"
 og_description: "モダンなIT運用管理、ジョブ管理システムとしてのMWAA"
 og_url: "https://www.proto-ya.com/tech-notes/MWAA-as-modern-IT-operations-management/"
 og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
