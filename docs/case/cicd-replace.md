@@ -5,9 +5,9 @@ og_description: "事例紹介 : CI/CD環境と開発プロセスの刷新
 旧ベンダーの成果物に品質の問題があったため、改修および仕様変更に対応するための開発インフラを見直し、オフショア開発を前提とした開発体制を構築。
 また、コーディング規約の整備、開発チームからの各種問い合わせ対応（調査および回答）、インフラの改修・リリースを担当。
 "
-og_url: "https://www.proto-ya.com/case/cicd-replace/"
-og_image: "https://www.proto-ya.com/ogp/case.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/case/cicd-replace/"
+og_image: "https://feasible.llc/ogp/case.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # CI/CD環境と開発プロセスの刷新
