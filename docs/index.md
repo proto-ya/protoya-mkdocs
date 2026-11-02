@@ -2,9 +2,9 @@
 title: " "
 og_title: "フィジブル合同会社"
 og_description: "フィジブル合同会社のポートフォリオサイト"
-og_url: "https://www.proto-ya.com"
-og_image: "https://www.proto-ya.com/ogp/title.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc"
+og_image: "https://feasible.llc/ogp/title.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # System Architect<br>Professional<br>Services

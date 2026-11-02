@@ -5,9 +5,9 @@ og_description: "事例紹介 : プライベートクラウドからAWSへのマ
 サーバーOS、ライブラリ、DBMSの最新化を行い、クライアント側もChromeに対応。文字コードをEUC-JPからUTF-8に変更。
 古い業務システムのモダナイゼーション・マイグレーションのテンプレート案件として実績を積めた。 
 作業の効率化のため、Terraformを用いたAWSインスタンスの自動化など、インフラ面での知見も広がった。"
-og_url: "https://www.proto-ya.com/case/private-cloud-to-aws-migration/"
-og_image: "https://www.proto-ya.com/ogp/case.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/case/private-cloud-to-aws-migration/"
+og_image: "https://feasible.llc/ogp/case.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # プライベートクラウドからAWSへのマイグレーション

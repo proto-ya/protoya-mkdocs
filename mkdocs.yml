@@ -1,10 +1,10 @@
 site_name: フィジブル合同会社
-site_url: https://www.proto-ya.com
+site_url: https://feasible.llc
 copyright: "&copy; 2025-2026 Yasuhisa Hironaka"
 theme:
   name: material
   palette:
-      primary: pink
+      primary: indigo
   font:
     text: Noto Sans JP
     code: ospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;

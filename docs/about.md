@@ -1,19 +1,19 @@
 ---
 og_title: "自己紹介"
 og_description: "基本情報、略歴、スキル、お問い合わせ先"
-og_url: "https://www.proto-ya.com/about"
-og_image: "https://www.proto-ya.com/ogp/about.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/about"
+og_image: "https://feasible.llc/ogp/about.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # フィジブル合同会社について
 <p class="update-date">最終更新日: 2026年 10月 1日</br>
 <a class="update-date" target="_blank" href='https://github.com/proto-ya/protoya-mkdocs/commits/main/docs/about.md'>編集履歴</a></p>
 
-## 法人になりました
+## 法人化について
 
 個人事業主「プロト屋」は2026年10月1日より「フィジブル合同会社」になりました。  
-近年話題のAIを活用したシステム開発、それに伴うクラウドインフラ基盤を中心としたマイグレーションにより注力して活動していきます。  
+近年話題のAIを活用したシステム開発、それに伴うクラウドインフラ基盤、セキュリティ管理を中心としたマイグレーションにより注力して活動していきます。  
 
 ## 会社概要
 
@@ -48,7 +48,9 @@ ITコンサル会社、外資パッケージベンダーを経て、オフショ
 以降、システム開発会社での設計・開発・運用業務、コンサル会社では自動車メーカー向け業務改革推進プロジェクト・業務モデリングを担当。  
 国産パッケージベンダーの会計システム刷新プロジェクトで得たDevOps環境での経験を基に、モダンな開発基盤のあり方を深掘りしている。
 
-2020年に個人事業主として独立。現在は、カード会社のレガシーマイグレーションプロジェクトを手掛ける。
+2020年10月に個人事業主として独立。現在は、カード会社のレガシーマイグレーションプロジェクトを手掛ける。
+
+2026年10月にフィジブル合同会社を設立。更なる発展を目指す。
 
 ## 業務スキル
 ### 自動車
