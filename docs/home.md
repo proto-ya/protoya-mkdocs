@@ -1,9 +1,9 @@
 ---
 og_title: "ごあいさつ"
 og_description: "ごあいさつと、このサイトのご案内"
-og_url: "https://www.proto-ya.com/home/"
-og_image: "https://www.proto-ya.com/ogp/title.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/home/"
+og_image: "https://feasible.llc/ogp/title.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # ごあいさつ

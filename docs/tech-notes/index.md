@@ -1,9 +1,9 @@
 ---
 og_title: "技術ノート"
 og_description: "技術情報を公開します"
-og_url: "https://www.proto-ya.com/tech-notes/"
-og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/tech-notes/"
+og_image: "https://feasible.llc/ogp/tech-notes.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # 技術情報を公開します

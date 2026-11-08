@@ -7,9 +7,9 @@ SBOMを整備することで、各種コンポーネントの脆弱性情報を�
 SASTを開発サイクルに組み込むことで、開発資産を継続的にセキュアな状態に保つ。  
 このようなDevSecOpsを提案する資料となった。
 "
-og_url: "https://www.proto-ya.com/case/dev-sec-ops-proposal/"
-og_image: "https://www.proto-ya.com/ogp/case.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/case/dev-sec-ops-proposal/"
+og_image: "https://feasible.llc/ogp/case.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # Dev Sec Ops提案活動支援

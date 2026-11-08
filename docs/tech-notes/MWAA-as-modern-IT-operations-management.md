@@ -1,9 +1,9 @@
 ---
 og_title: "技術ノート"
 og_description: "モダンなIT運用管理、ジョブ管理システムとしてのMWAA"
-og_url: "https://www.proto-ya.com/tech-notes/MWAA-as-modern-IT-operations-management/"
-og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/tech-notes/MWAA-as-modern-IT-operations-management/"
+og_image: "https://feasible.llc/ogp/tech-notes.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # モダンなIT運用管理、ジョブ管理システムとしてのMWAA

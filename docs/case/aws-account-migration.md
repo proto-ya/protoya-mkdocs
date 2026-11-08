@@ -6,9 +6,9 @@ og_description: "事例紹介 : 大量のAWSアカウントのペイヤー移管
 作業は基本的にCloudShell上でCUIスクリプトを作成し、テストを経た後に本番環境へ適用するという流れで進めた。
 最終的に、移行作業のテンプレート化を完了し、今後の移行実施チームへ引き継ぐ。
 "
-og_url: "https://www.proto-ya.com/case/aws-account-migration/"
-og_image: "https://www.proto-ya.com/ogp/case.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/case/aws-account-migration/"
+og_image: "https://feasible.llc/ogp/case.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # 大量のAWSアカウントのペイヤー移管
