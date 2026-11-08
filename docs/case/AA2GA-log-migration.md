@@ -1,9 +1,9 @@
 ---
 og_title: "業務事例"
 og_description: "事例紹介 : Adobe AnalyticsからGoogle Analytics 4への移行に伴うログ・マイグレーション"
-og_url: "https://www.proto-ya.com/case/AA2GA-log-migration/"
-og_image: "https://www.proto-ya.com/ogp/case.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/case/AA2GA-log-migration/"
+og_image: "https://feasible.llc/ogp/case.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # Adobe AnalyticsからGoogle Analytics 4への移行に伴うログ・マイグレーション

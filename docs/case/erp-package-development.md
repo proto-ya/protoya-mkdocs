@@ -1,9 +1,9 @@
 ---
 og_title: "業務事例"
 og_description: "事例紹介 : ERPパッケージに対し特定業界向けの機能を追加開発"
-og_url: "https://www.proto-ya.com/case/erp-package-development/"
-og_image: "https://www.proto-ya.com/ogp/case.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/case/erp-package-development/"
+og_image: "https://feasible.llc/ogp/case.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # ERPパッケージに対し特定業界向けの機能を追加開発

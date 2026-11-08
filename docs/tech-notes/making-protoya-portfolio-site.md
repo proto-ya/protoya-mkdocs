@@ -1,9 +1,9 @@
 ---
 og_title: "技術ノート"
 og_description: "ポートフォリオ(このサイト)の構築"
-og_url: "https://www.proto-ya.com/tech-notes/making-protoya-portfolio-site/"
-og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/tech-notes/making-protoya-portfolio-site/"
+og_image: "https://feasible.llc/ogp/tech-notes.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # ポートフォリオ(このサイト)の構築

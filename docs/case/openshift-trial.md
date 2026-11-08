@@ -1,9 +1,9 @@
 ---
 og_title: "業務事例"
 og_description: "事例紹介 : コンテナ基盤刷新 OpenShiftトライアル"
-og_url: "https://www.proto-ya.com/case/openshift-trial/"
-og_image: "https://www.proto-ya.com/ogp/case.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/case/openshift-trial/"
+og_image: "https://feasible.llc/ogp/case.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # OpenShiftトライアル

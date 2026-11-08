@@ -7,9 +7,9 @@ Web系システムのモダナイズに伴う基盤刷新の提案プロジェ�
 PoCでは、ECS（Fargate）を用いたマルチAZ環境を構築し、既存のWebサービスをステートレス化するために必要なパラメータの抽出を実施。
 EOL対応の修正箇所を特定し、見積依頼における不確定要素を最小化する取り組みを遂行。
 "
-og_url: "https://www.proto-ya.com/case/modernization-proposal/"
-og_image: "https://www.proto-ya.com/ogp/case.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/case/modernization-proposal/"
+og_image: "https://feasible.llc/ogp/case.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # モダナイズに伴う基盤刷新の提案支援

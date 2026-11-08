@@ -1,9 +1,9 @@
 ---
 og_title: "技術ノート"
 og_description: "OGPイメージの作り方"
-og_url: "https://www.proto-ya.com/tech-notes/how-to-make-ogp-image/"
-og_image: "https://www.proto-ya.com/ogp/tech-notes.jpg"
-og_site_name: "PROTOYA"
+og_url: "https://feasible.llc/tech-notes/how-to-make-ogp-image/"
+og_image: "https://feasible.llc/ogp/tech-notes.jpg"
+og_site_name: "FEASIBLE"
 og_type: "website"
 ---
 # OGPイメージの作り方
