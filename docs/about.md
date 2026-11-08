@@ -19,7 +19,7 @@ og_type: "website"
 
 - 会社名（商号）: フィジブル合同会社
 - 法人番号 : [9011803007651](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=9011803007651)
-- 代表者名: 代表社員 廣中靖久
+- 代表社員 : 廣中靖久
 - 連絡先: info@feasible.llc
 - 設立年月日: 2026年10月1日
 - 事業内容 : コンピュータシステムの規格・設計・開発・運用、コンサルティング
@@ -103,7 +103,7 @@ ITコンサル会社、外資パッケージベンダーを経て、オフショ
 - ワークフローエンジン
 
 ## お問合せ
-- mail : [info@proto-ya.com](mailto:info@proto-ya.com)
+- mail : [info@feasible.llc](mailto:info@feasible.llc)
 
 ## Link
 - [<img src="../images/x-logo.svg" width="18px">](https://x.com/proto_ya){target="_blank"}
